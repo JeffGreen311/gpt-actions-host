@@ -1,0 +1,29 @@
+openapi: 3.0.1
+info:
+  title: Hello World API
+  description: A simple test API that returns a greeting.
+  version: "1.0.0"
+servers:
+  - url: https://example-api.com  # Replace this with your actual API URL later
+paths:
+  /hello:
+    get:
+      summary: Say hello
+      operationId: getHello
+      parameters:
+        - name: name
+          in: query
+          required: false
+          schema:
+            type: string
+          description: Name to greet
+      responses:
+        '200':
+          description: A successful greeting
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
