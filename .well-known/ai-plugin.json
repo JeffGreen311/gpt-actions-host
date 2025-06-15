@@ -9,9 +9,9 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://yourusername.github.io/.well-known/openapi.yaml"
+    "url": "https://JeffGreen311.github.io/.well-known/openapi.yaml"
   },
-  "logo_url": "https://yourusername.github.io/logo.png",
-  "contact_email": "you@example.com",
-  "legal_info_url": "https://yourusername.github.io/legal"
+  "logo_url": "https://JeffGreen311.github.io/logo.png",
+  "contact_email": "jeffgreen311@gmail.com",
+  "legal_info_url": "https://JeffGreen311.github.io/legal"
 }
