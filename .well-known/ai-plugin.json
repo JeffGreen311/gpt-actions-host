@@ -7,10 +7,10 @@
   "auth": {
     "type": "none"
   },
-  "api": {
-    "type": "openapi",
-    "url": "https://JeffGreen311.github.io/.well-known/openapi.yaml"
-  },
+ "api": {
+  "type": "openapi",
+  "url": "https://jeffgreen311.github.io/gpt-actions-host/.well-known/openapi.yaml"
+}
   "logo_url": "https://JeffGreen311.github.io/logo.png",
   "contact_email": "jeffgreen311@gmail.com",
   "legal_info_url": "https://JeffGreen311.github.io/legal"
