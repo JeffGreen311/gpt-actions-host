@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "my_custom_api",
+  "name_for_human": "My Custom API",
+  "description_for_model": "Access a custom API to get sample data.",
+  "description_for_human": "Provides custom GPT functions.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://yourusername.github.io/.well-known/openapi.yaml"
+  },
+  "logo_url": "https://yourusername.github.io/logo.png",
+  "contact_email": "you@example.com",
+  "legal_info_url": "https://yourusername.github.io/legal"
+}
