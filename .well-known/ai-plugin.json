@@ -9,7 +9,7 @@
   },
  "api": {
   "type": "openapi",
-  "url": "https://jeffgreen311.github.io/gpt-actions-host/.well-known/openapi.yaml"
+  "url": https://jeffgreen311.github.io/gpt-actions-host/.well-known/ai-plugin.json
 }
   "logo_url": "https://JeffGreen311.github.io/logo.png",
   "contact_email": "jeffgreen311@gmail.com",
